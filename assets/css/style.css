@@ -1,0 +1,17 @@
+#header {
+	background: url(../images/leopard-print.jpg) repeat center center;
+	background-size: cover;
+	color: #fff;
+	-webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+#header h1 {
+	font-size: 150px;
+    font-family: Anton, sans-serif;
+    font-weight: bolder;
+	text-align: center;
+	-webkit-transition: text-shadow 1s ease;
+	text-shadow: 0 0 1px rgba(0,0,0,.1);
+	margin: 0;
+	padding: 0;
+}
